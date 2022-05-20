@@ -1,5 +1,10 @@
 console.log(`bienvenue dans le garage de Jean`);
 console.log("--------------------------------------------------------------------------");
+setInterval(() => {
+    console.log("Wouaf,Wouaf")
+}, 2000);
+console.log(`bienvenue dans le garage de Jean`);
+console.log("--------------------------------------------------------------------------");
 
 let garagiste = {
     nom : "jean", 

@@ -1,3 +1,4 @@
+import * as personne from './clients.js'
 console.log(`bienvenue dans le garage de Jean`);
 console.log("--------------------------------------------------------------------------");
 setInterval(() => {
